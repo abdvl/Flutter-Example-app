@@ -1,7 +1,7 @@
 # flutter_app
 
 Learning example Write your first Flutter app [[Part 1](https://flutter.dev/docs/get-started/codelab),[Part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/)]
-![](https://flutter.dev/assets/get-started/startup-namer-part-1-9db323d8383da0000c8be4e1a12e3d9ff6ab3a0eb8b86984451b329f1f3b4196.gif)
+![](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/img/b17de15fa7831a1c.gif)
 
 ## Getting Started
 
